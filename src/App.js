@@ -140,7 +140,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>Hello CodeSandbox</h1>
+      <h1>CrossWord Game</h1>
       <Crossword data={data}>
         <Grid>
           <Cell />

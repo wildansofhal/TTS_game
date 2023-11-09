@@ -7,7 +7,6 @@ import Crossword, {
   Controls,
   ConfirmButton,
   AnagramHelper,
-  ClueInput,
   Ring,
   CluePreview,
   Clues,
